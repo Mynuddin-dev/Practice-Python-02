@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul 21 12:18:50 2020
+
+@author: Mynuddin
+"""
+
+name , email , phone
+"Md Mynuddin" , "dr.mdmynuddin@gmail.com" , 01923432354
+"Mohit Mirza", "devdocs@gmail.com" , 01926932354
+"Al Jaber" , "mailnishad@gmail.com" , 01923432354
+
