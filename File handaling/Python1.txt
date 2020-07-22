@@ -1,0 +1,3 @@
+print "Hello World" and go for fuck the world
+In python file handaling is just awsome
+So its my suggestion to learn python

@@ -1,0 +1,4 @@
+Khair,40000
+Mynuddin,67000
+Nishad,50000
+Shahaparan,120000
